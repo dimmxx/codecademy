@@ -1,0 +1,5 @@
+thisdict =	dict(apple="green", banana="yellow", cherry="red")
+
+for i in thisdict:
+    print i
+    print thisdict[i]
